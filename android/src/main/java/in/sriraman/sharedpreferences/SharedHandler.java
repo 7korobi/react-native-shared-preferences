@@ -7,7 +7,7 @@ import java.util.Map;
 
 public class SharedHandler {
 
-    private static final String SHARED_NAME = "pmang_app";
+    private static final String SHARED_NAME = "titanium";
 
     private SharedPreferences mSharedPreferences;
 
